@@ -1,0 +1,7 @@
+{
+  "name": "expense-bot-telegram",
+  "private": true,
+  "scripts": { "start": "tsx bot/index.ts", "test": "node --test apps-script/" },
+  "dependencies": { "dotenv": "^16.4.5", "telegraf": "^4.16.3" },
+  "devDependencies": { "tsx": "^4.19.0", "typescript": "^5.6.0" }
+}
