@@ -1,5 +1,7 @@
 # Bot de despesas e fechamento de caixa (Telegram + Google Sheets)
 
+🇺🇸 [English version](README.en.md)
+
 > Projeto de portfólio. Código adaptado de uma automação real em produção; **todos os dados, nomes, IDs e valores são fictícios**.
 
 ## Problema
